@@ -23,6 +23,8 @@ En el repo encontrara dos carpetas una con los casos para las pruebas de monkeys
     h.sosa@uniandes.edu.co
 ## Pass:
     Bogota1*     
+## URL Video Estrategia de Pruebas 
+https://youtu.be/D71QnijNKKA?feature=shared
 
 ## URL para visualizar estrategia de pruebas 
  ##   En la wiki del reporsitorio también se encuentra la estrategia de pruebas
