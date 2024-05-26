@@ -25,6 +25,7 @@ En el repo encontrara dos carpetas una con los casos para las pruebas de monkeys
     Bogota1*     
 
 ## URL para visualizar estrategia de pruebas 
+ ##   En la wiki del reporsitorio también se encuentra la estrategia de pruebas
     https://uniandes-my.sharepoint.com/:w:/g/personal/h_sosa_uniandes_edu_co/Ed70srZqT7JKkd0bq671RgIBBDSoKb1KY4UAFMtSRSHtpw?e=TaaS7P
 
 ## URL para visualizar inventario de pruebas
