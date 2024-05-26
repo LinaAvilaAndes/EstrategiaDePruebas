@@ -7,7 +7,7 @@ En el repo encontrara dos carpetas una con los casos para las pruebas de monkeys
 
 1. Abra una consola y cree una carpeta para descargar el proyecto.
 2. Ingrese a la carpeta creada y clone el repositorio usando el comando:
-    git clone https://github.com/HumbertoAndes/generacionDatos
+    git clone https://github.com/LinaAvilaAndes/EstrategiaDePruebas
 3. Ejecute el siguiente comando para instalar Cypress:
     npm install cypress
 4. Ejecute el siguiente comando para ejecutar las pruebas con monkeys:
