@@ -1,4 +1,4 @@
-# Taller Semana 7
+# Estrategia de pruebas semana 8
 
 # Aclaramos que nuestro equipo esta conformado por 2 personas, por ello la distribución de la estrategia de pruebas.
 
